@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lizhongyue248.springcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lizhongyue248.springcode.MyBundle
 
 class MyApplicationService {
 
